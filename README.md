@@ -1,7 +1,6 @@
 Olá!
 Me chamo Pedro Cezarini e estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas na FATEC Campinas. 
-Atualmente aprendendo C.
-Buscando aprimorar minhas habilidades em ambas áreas de backend e frontend.
+Atualmente aprendendo C, JavaScript e Assembly.
 
 [Me encontre no Linkedin!](https://www.linkedin.com/in/pedro-cezarini-48888069/)
 
