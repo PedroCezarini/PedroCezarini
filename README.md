@@ -1,6 +1,18 @@
 Olá!
-Me chamo Pedro Cezarini e estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas na FATEC Campinas. 
-Atualmente aprendendo C, JavaScript e Assembly.
+Me chamo Pedro Cezarini e sou aluno do curso de Análise e Desenvolvimento de Sistemas.
+
+Pretendo usar estes repositórios para postar códigos que desenvolvi das linguagens que vi/estudei até aqui, além de repositórios para as páginas HTML criadas até então.
+
+-C
+-
+-JavaScript
+-
+-Java
+-
+-Assembly
+-
+-C#
+-
 
 [Me encontre no Linkedin!](https://www.linkedin.com/in/pedro-cezarini-48888069/)
 
