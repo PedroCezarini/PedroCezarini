@@ -1,13 +1,8 @@
-Olá!
-Me chamo Pedro Cezarini e sou aluno do curso de Análise e Desenvolvimento de Sistemas.
+Hello!
 
-Pretendo usar estes repositórios para postar códigos que desenvolvi das linguagens que vi/estudei até aqui, além de repositórios para as páginas HTML criadas até então.
+My name is Pedro Cezarini and I'm currently studying System Analysis and Development.
 
-C /
-JavaScript /
-Java /
-Assembly /
-C#
+Let's share our projects and try some solutions together? :)
 
 
 [Me encontre no LinkedIn!](https://www.linkedin.com/in/pedro-cezarini-48888069/)
