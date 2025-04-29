@@ -1,6 +1,5 @@
-preview
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-- 🌱 I’m currently learning **Python, Kotlin, Node and React**
+- 🌱 I’m currently learning Python, Kotlin, Node and React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
