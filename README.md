@@ -13,11 +13,6 @@
     height="180" 
     alt="Top Langs"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=PedroCezarini&theme=dark&hide_border=false" 
-    height="180" 
-    alt="GitHub Streak"
-  />
 </div>
 
 ---
