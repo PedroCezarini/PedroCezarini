@@ -2,7 +2,6 @@
 
 ### ⚙️ GitHub Analytics
 
-<div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=PedroCezarini&theme=dark&hide_border=false&include_all_commits=true" 
     height="180" 
@@ -18,7 +17,6 @@
     height="180" 
     alt="GitHub Streak"
   />
-</div>
 
 ---
 
