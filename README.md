@@ -5,17 +5,17 @@
 <div align = "center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=PedroCezarini&theme=dark&hide_border=false&include_all_commits=true" 
-    width="280" 
+    height="160" 
     alt="GitHub Stats"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCezarini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-    width="220" 
+    height="160" 
     alt="Top Langs"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=PedroCezarini&theme=dark&hide_border=false" 
-    width="280" 
+    height="160" 
     alt="GitHub Streak"
   />
   </div>
